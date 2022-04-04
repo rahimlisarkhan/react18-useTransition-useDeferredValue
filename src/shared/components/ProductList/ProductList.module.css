@@ -1,0 +1,17 @@
+.productList {
+  margin: 0;
+  padding: 0;
+  margin-top: 50px;
+}
+
+.productItem {
+  width: 100%;
+  padding: 20px 0;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(77, 29, 33);
+  list-style: none;
+  border-radius: 10px;
+  background-color: #d8a8e8;
+  margin: 15px 0;
+}

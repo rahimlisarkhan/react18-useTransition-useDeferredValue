@@ -1,0 +1,17 @@
+.searchInput {
+  position: sticky;
+  top: 0;
+  width: 98%;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  font-size: 24px;
+  outline: none;
+  background-color: white;
+  border-radius: 10px;
+  transition: all 0.2s;
+}
+
+.searchInput:focus {
+  box-shadow: 0 0 4px 4px rgba(48, 13, 13, 0.315);
+}
